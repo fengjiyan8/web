@@ -1,0 +1,66 @@
+a:2:{i:0;a:2:{i:0;s:2064:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>后盾网文章管理系统</title>
+
+<link href="/yiiweb-houdun/blog/assets/index/css/common.css" rel="stylesheet" />
+</head>	
+<body>
+	<div id="top">
+	</div>
+	<div id="header">
+		<div class='logo'>
+			<a href=""><img src="/yiiweb-houdun/blog/assets/index/images/logo.jpg" alt=""></a>
+		</div>
+		<div class='navigation'>
+			<a href="/yiiweb-houdun/blog/./index.html">首页</a>
+						 				<a href="/yiiweb-houdun/blog/c/15.html">情感</a>
+							<a href="/yiiweb-houdun/blog/c/16.html">生活</a>
+							<a href="/yiiweb-houdun/blog/c/17.html">趣事</a>
+							<a href="/yiiweb-houdun/blog/c/18.html">奇闻</a>
+					</div>
+	</div>
+
+	
+	<link href="/yiiweb-houdun/blog/assets/index/css/details.css" rel="stylesheet" />
+	<div id="main">
+		<div class='details'>
+			<h1>test</h1>
+			<div class='info'>
+				<div class='base'>
+					<em>发表于 15:25:07</em>, 分类：<strong>情感</strong>
+				</div>
+			</div>
+			<div class='content'>
+				<p>dsf<br/></p>			</div>
+		</div>
+
+			
+	<div class='sidebar'>
+			<div class='item'>
+				<h2>文章标题</h2>
+				<ul class='flink'>
+																		<li><a href="/yiiweb-houdun/blog/a/41.html">test</a></li>
+													<li><a href="/yiiweb-houdun/blog/a/28.html">蹲下来抱抱自己</a></li>
+													<li><a href="/yiiweb-houdun/blog/a/40.html">后盾网激情澎湃的篮球赛</a></li>
+													<li><a href="/yiiweb-houdun/blog/a/38.html">惜别，亲爱的友情</a></li>
+													<li><a href="/yiiweb-houdun/blog/a/37.html">郭敬明语录</a></li>
+															</ul>
+			</div>
+			
+		</div>
+	</div>
+	<div id="footer">
+		<div class='bgbar'></div>
+		<div class='bottom'>
+			<div class='pos'>
+				<div class='copyright'>
+					© Copyright 2011-2013 www.houdunwang 后盾网
+				</div>
+			</div>	
+		</div>
+	</div>
+</body>
+</html>
+";i:1;N;}i:1;N;}
